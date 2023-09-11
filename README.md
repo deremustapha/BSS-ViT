@@ -7,3 +7,12 @@ This repository contains the results and prem codes used in our study titled "A 
 3. Experiment three results are located in the [Experiment_3](https://github.com/deremustapha/BSS-ViT/tree/master/Experiment_3).
 4. The SRC folder contains the code necessary to replicate our study [SRC](https://github.com/deremustapha/BSS-ViT/tree/master/src).
 
+
+
+## Credits 
+
+We like to appreciate the creators of [EMGdecompy](https://emgdecompy.readthedocs.io/en/stable/index.html).
+
+
+<h3> The paper has been submitted for possible publication in the IEEE Journal of Biomedical and Health Informatics (JBHI). <\h3>
+
