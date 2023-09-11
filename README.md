@@ -5,7 +5,7 @@ This repository contains the results and prem codes used in our study titled "A 
 1. Experiment one results are located in the [Experiment_1](https://github.com/deremustapha/BSS-ViT/tree/master/Experiment_1).
 2. Experiment two results are located in the [Experiment_2](https://github.com/deremustapha/BSS-ViT/tree/master/Experiment_2).
 3. Experiment three results are located in the [Experiment_3](https://github.com/deremustapha/BSS-ViT/tree/master/Experiment_3).
-4. The SRC folder contains the code necessary to replicate our study [SRC](https://github.com/deremustapha/BSS-ViT/tree/master/src).
+4. The SRC folder contains the code necessary to replicate our study [src](https://github.com/deremustapha/BSS-ViT/tree/master/src).
 
 
 
