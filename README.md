@@ -14,5 +14,5 @@ This repository contains the results and prem codes used in our study titled "A 
 We like to appreciate the creators of [EMGdecompy](https://emgdecompy.readthedocs.io/en/stable/index.html).
 
 
-<h3> The paper has been submitted for possible publication in the IEEE Journal of Biomedical and Health Informatics (JBHI). <\h3>
+<h3> The paper has been submitted for possible publication in the IEEE Journal of Biomedical and Health Informatics (JBHI). <h3>
 
